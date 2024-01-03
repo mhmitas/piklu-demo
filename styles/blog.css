@@ -45,3 +45,8 @@ h3{
     height: 50px;
     display: block;
 }
+.add{
+    border: 3px solid;
+    margin: 10px 40px;
+    padding: 5px;
+}
