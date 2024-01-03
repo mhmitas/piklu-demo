@@ -1,4 +1,47 @@
-div{
-    background-color: brown;
-    color: aliceblue;
+.header{
+    color: rgb(252, 250, 250);
+    font-weight: bolder;
+    text-align: center;
+    font-size: larger;
+    background-color: #00b359;
+    height: 300px;
+    background-image: url(image/juho-luomala-6tPkUHiRFac-unsplash.jpg);
+    background-size:cover ;
+}
+.wellcome{
+    background-color: #00b359;
+}
+
+.Wellcome{
+    background-color: #00b359;
+}
+
+.heading{
+    text-align: center;
+}
+
+h3{
+    font-size: 30px;
+    text-decoration: overline;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.blog{
+    margin: 40px;
+    border: 10px solid #00b359 ;
+    padding: 15px;
+    box-shadow: 10px 10px 50px gray;
+}
+
+.ipsam{
+    border: 2px solid red;
+    margin: 20px;
+    /* padding: 20px; */
+}
+
+.moja{
+    border: 2px solid saddlebrown;
+    height: 50px;
+    display: block;
 }
